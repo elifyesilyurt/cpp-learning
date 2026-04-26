@@ -10,7 +10,7 @@ int main()
 
     if (number < 0)
     {
-        cout<<"Please enter a positive number.\n";
+        cout<<"Please enter a positive number:\n";
         cin >> number;
     }
     if (number % 2 == 0)
